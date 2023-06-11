@@ -8,9 +8,9 @@ Going to use the initial repository of hypersdk to configure and launch our own 
 
 ## Getting Started
 
-### note:
+### Note:
 
-You need to create your own build for checking as build file are greater than 25mb and does not have an extention so i can't upload :-(
+You need to create your own build for checking as build file are greater than 25mb and does not have an extention so i can't upload :-( 
 and same with the test folder you can take it from the official repo as well.
 
 ## Initialize
@@ -21,6 +21,7 @@ and same with the test folder you can take it from the official repo as well.
    ``go mod tidy``
    it will download all the dependency.
 4. Then run this script to run the configurations set by you and all the testing are done autmatically.
+<br>
    ``./scripts/run.sh`` or ``bash ./scripts/run.sh``
 5. Then after success run this to create the build from above.
    ``./scripts/build.sh`` or ``bash ./scripts/run.sh``
