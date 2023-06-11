@@ -30,7 +30,6 @@ _This command will put the compiled CLI in `./build/token-cli`._
 
 ### Executing program
 
-## Demos
 
 _By default, this allocates all funds on the network to
 `token1rvzhmceq997zntgvravfagsks6w0ryud3rylh4cdvayry0dl97nsjzf3yp`. The private
